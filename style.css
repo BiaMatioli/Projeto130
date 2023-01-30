@@ -1,0 +1,22 @@
+.tagh3{
+    box-shadow: 1px 5px 10px lightgoldenrodyellow;
+    border-radius: 25px;
+    font-size: 25px;
+}
+
+.span{
+    font-size: 15px;
+}
+
+body{
+    background-size: cover;
+}
+
+canvas{
+    box-shadow: 1px 5px 10px lightgoldenrodyellow;
+    margin-top: 50px;
+}
+
+#tagh2{
+    color: white;
+}
